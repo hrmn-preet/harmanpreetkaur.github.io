@@ -16,7 +16,7 @@ Uncovered actionable insights into service request patterns across 403 neighborh
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img src="path/to/image1a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
+        <img src="https://github.com/hrmn-preet/harmanpreetkaur.github.io/blob/main/portfiolio%20images/business%20unit.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
         <img src="path/to/image1b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
