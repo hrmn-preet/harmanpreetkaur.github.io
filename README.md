@@ -1,15 +1,4 @@
-# Harmanpreet Kaur
-
-Edmonton, Alberta  
-+1-780-777-7087  
-harmanpreet.kaur1@outlook.com  
-[LinkedIn](#) | [GitHub](#)  
-
-## Summary
-
-Data-driven professional with 6 years of experience in Sales, Customer Service, and Operations Management. Known for leveraging retail data to enhance customer satisfaction and operational efficiency. Recognized for a superior customer-centric approach, exceptional analytical skills, and effective team leadership. Committed to continuous improvement and passionate about using data insights to drive strategic decision-making.
-
-## Projects
+# Projects in Data Science, Data Analytics and NLP
 
 ### [311 Request Analysis with Monthly and Daily Predictions for Edmonton](https://github.com/hrmn-preet/City-of-Edmonton-311-Requests-Analysis-)
 Uncovered actionable insights into service request patterns across 403 neighborhoods in Edmonton through rigorous data analysis. Leveraged advanced geospatial tools and machine learning techniques to optimize predictive models, improving service efficiency and resource allocation.
