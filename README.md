@@ -11,29 +11,77 @@ Data-driven professional with 6 years of experience in Sales, Customer Service, 
 
 ## Projects
 
-### 311 Request Analysis with Monthly and Daily Predictions for Edmonton
-- Conducted detailed data analysis of service request patterns across 403 neighborhoods.
-- Geospatial tools (Geo Pandas, Shapely) and machine learning techniques (XG Boost, Random Forest) were used to optimize predictive models, improving service efficiency and resource allocation.
+### [311 Request Analysis with Monthly and Daily Predictions for Edmonton](https://github.com/hrmn-preet/City-of-Edmonton-311-Requests-Analysis-)
+Uncovered actionable insights into service request patterns across 403 neighborhoods in Edmonton through rigorous data analysis. Leveraged advanced geospatial tools and machine learning techniques to optimize predictive models, improving service efficiency and resource allocation.
 
-### Yelp Sentiment Analysis
-- Developed a multiclass classification model to predict Yelp review star ratings.
-- Achieved an accuracy of 67.78% and F1 score of 0.63763, enhancing classification performance through optimized model parameters.
+<div style="display: flex; justify-content: space-between;">
+    <div style="margin: 10px;">
+        <img src="path/to/image1a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image1b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image1c.jpg" alt="Image 3" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image1d.jpg" alt="Image 4" style="width: 100px; border-radius: 8px;">
+    </div>
+</div>
 
-### Customer Segmentation and Product Affinity Analysis in Wholesale Grocery
-- Executed exploratory data analysis including data cleaning and outlier detection.
-- Utilized PCA and clustering algorithms to identify customer segments and product associations, supporting improved sales strategies.
+### [Yelp Sentiment Analysis](link_to_project_2)
+Constructed a multiclass classification model to predict Yelp review star ratings. Attained an accuracy of 67.78% and F1 score of 0.63763, showcasing effective classification of reviews into star rating categories through optimized model parameters.
 
-### House Price Predictions using Supervised Learning
-- Built a robust prediction model using Linear Regression, Support Vector Machines, Random Forest, and XG Boost.
-- Achieved an aggregated error of 56,147.87, highlighting key property features that influence value.
+<div style="display: flex; justify-content: space-between;">
+    <div style="margin: 10px;">
+        <img src="path/to/image2a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image2b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image2c.jpg" alt="Image 3" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image2d.jpg" alt="Image 4" style="width: 100px; border-radius: 8px;">
+    </div>
+</div>
 
-### Statistical Analysis of Bike Sharing and Local Amenities in Vancouver
-- Analyzed the relationship between bar characteristics and bike sharing within a 1000m radius.
-- Identified correlations that could drive enhancements in bike-sharing strategies.
+### [Customer Segmentation and Product Affinity Analysis in Wholesale Grocery](link_to_project_3)
+Conducted in-depth exploratory data analysis, including data cleaning and outlier detection. Employed PCA and clustering algorithms to identify customer segments and product associations, providing data-driven insights for improved sales strategies.
 
-### SQL-Based Exploration of Global Shopping Patterns
-- Analyzed global shopping trends using PostgreSQL.
-- Cleaned and transformed datasets to uncover regional spending patterns and provided actionable marketing insights.
+<div style="display: flex; justify-content: space-between;">
+    <div style="margin: 10px;">
+        <img src="path/to/image3a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image3b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image3c.jpg" alt="Image 3" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image3d.jpg" alt="Image 4" style="width: 100px; border-radius: 8px;">
+    </div>
+</div>
+
+### [House Price Predictions using Supervised Learning](link_to_project_4)
+Developed a robust house price prediction model utilizing various machine learning algorithms. Achieved an aggregated error of 56,147.87, identifying key property features that influence market value.
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="margin: 10px;">
+        <img src="path/to/image4a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image4b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image4c.jpg" alt="Image 3" style="width: 100px; border-radius: 8px;">
+    </div>
+    <div style="margin: 10px;">
+        <img src="path/to/image4d.jpg" alt="Image 4" style="width: 100px; border-radius: 8px;">
+    </div>
+</div>
 
 ## Skills
 
