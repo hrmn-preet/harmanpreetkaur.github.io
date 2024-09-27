@@ -5,16 +5,16 @@ Uncovered actionable insights into service request patterns across 403 neighborh
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img src="portfiolio images/business unit.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio-images/business unit.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
-        <img src="portfiolio images/neigh.png" alt="Image 2" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio-images/neigh.png" alt="Image 2" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
-        <img src="portfiolio images/2014-2024.png" alt="Image 3" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio-images/2014-2024.png" alt="Image 3" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
-        <img src="portfiolio images/2024.png" alt="Image 4" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio-images/2024.png" alt="Image 4" style="width: 100px; border-radius: 8px;">
     </div>
 </div>
 
@@ -23,7 +23,7 @@ Constructed a multiclass classification model to predict Yelp review star rating
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img src="portfiolio images/ai.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio-images/ai.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
     </div>
 </div>
 
