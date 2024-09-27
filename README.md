@@ -5,16 +5,16 @@ Uncovered actionable insights into service request patterns across 403 neighborh
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img src="https://github.com/hrmn-preet/harmanpreetkaur.github.io/blob/main/portfiolio%20images/business%20unit.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio images/business unit.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
-        <img src="path/to/image1b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio images/neigh.png" alt="Image 2" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
-        <img src="path/to/image1c.jpg" alt="Image 3" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio images/2014-2024.png" alt="Image 3" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
-        <img src="path/to/image1d.jpg" alt="Image 4" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio images/2024.png" alt="Image 4" style="width: 100px; border-radius: 8px;">
     </div>
 </div>
 
@@ -23,16 +23,7 @@ Constructed a multiclass classification model to predict Yelp review star rating
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img src="path/to/image2a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
-    </div>
-    <div style="margin: 10px;">
-        <img src="path/to/image2b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
-    </div>
-    <div style="margin: 10px;">
-        <img src="path/to/image2c.jpg" alt="Image 3" style="width: 100px; border-radius: 8px;">
-    </div>
-    <div style="margin: 10px;">
-        <img src="path/to/image2d.jpg" alt="Image 4" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio images/ai.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
     </div>
 </div>
 
@@ -41,7 +32,7 @@ Conducted in-depth exploratory data analysis, including data cleaning and outlie
 
 <div style="display: flex; justify-content: space-between;">
     <div style="margin: 10px;">
-        <img src="path/to/image3a.jpg" alt="Image 1" style="width: 100px; border-radius: 8px;">
+        <img src="portfiolio images/cluster1.png" alt="Image 1" style="width: 100px; border-radius: 8px;">
     </div>
     <div style="margin: 10px;">
         <img src="path/to/image3b.jpg" alt="Image 2" style="width: 100px; border-radius: 8px;">
